@@ -9,4 +9,4 @@
 
 **The Data:** The data used in this project is from two separate datasets: Population numbers for numerous countries & entries from 1960 through 2020, & additional information for numerous entries including their region, income group, & other special notes. As a whole, the data accounts for 265 different entries. There are multiple instances of missing data for some entries, most of which are in the dataset containing additional information on each entry. The missing data did not cause any problems for the purposes of the analyses in this project. The data was provided by The World Bank.
 
-Machine learning was not applied in this project.
+This project was done in April-May, 2024. Machine learning was not applied in this project.
